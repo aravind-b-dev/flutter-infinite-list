@@ -1,6 +1,6 @@
 # flutter_bpattern
 
-A new Flutter project usinf flutter blloc
+A new Flutter project usinf flutter bloc
 
 ## Getting Started
 
