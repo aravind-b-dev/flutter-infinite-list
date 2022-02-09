@@ -2,6 +2,10 @@
 
 A new Flutter project usinf flutter bloc
 
+Video demo
+
+https://user-images.githubusercontent.com/73890321/153141009-a2d0ae4f-9ae7-4ab3-b156-1ebdd7f5c776.mp4
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
