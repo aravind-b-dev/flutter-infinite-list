@@ -4,7 +4,7 @@ A new Flutter project usinf flutter bloc
 
 Video demo
 
-https://user-images.githubusercontent.com/73890321/153141009-a2d0ae4f-9ae7-4ab3-b156-1ebdd7f5c776.mp4
+https://user-images.githubusercontent.com/73890321/153144968-b84e5548-b315-4b70-9d0d-e53d33f4ed56.mp4
 
 
 Screenshot
