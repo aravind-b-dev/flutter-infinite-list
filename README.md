@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/73890321/153141009-a2d0ae4f-9ae7-4ab3-
 
 Screenshot
 
-![infinit_list](https://user-images.githubusercontent.com/73890321/153141399-22f082fb-fc8d-483b-b8de-9dd38effde5c.jpg)
+![infinit_list](https://user-images.githubusercontent.com/73890321/153141657-0412e093-e506-4f1c-abae-b7f41e7b41b8.jpg)
 
 ## Getting Started
 
